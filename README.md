@@ -9,4 +9,4 @@ Data that will be managed through the website is going to be their reviews and t
 Stretch goals that I would like to implement would be having it fully functional by the end of the timeline and having the reviews uploaded automatically off of yelp (Not sure how this would work but I will figure it out throughout the project and try having it functional).
 
 
-![wireframe]([wireframe-example.png](https://app.moqups.com/zDbfocZS7myeKuSViv6sVRfWcDlC8W7M/view/page/a4e233e3d))
+[![wireframe]([wireframe-example.png](https://app.moqups.com/zDbfocZS7myeKuSViv6sVRfWcDlC8W7M/view/page/a4e233e3d))](https://app.moqups.com/zDbfocZS7myeKuSViv6sVRfWcDlC8W7M/view/page/a4e233e3d)
